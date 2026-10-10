@@ -306,14 +306,6 @@ function renderArticle() {
 
 
 
-        <section class="comments-section">
-          <p class="eyebrow">${ui.comments}</p>
-          <h2>${ui.commentsTitle}</h2>
-          <p>${ui.commentsHelp}</p>
-          <div class="giscus">
-            <p class="comments-placeholder">${ui.placeholder}</p>
-          </div>
-        </section>
       </article>
 
 
