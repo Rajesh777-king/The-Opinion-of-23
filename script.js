@@ -3,6 +3,71 @@
 // Edit this list to add or update articles. Keep each slug unique.
 
 const articles = [
+
+
+  {
+  slug: "india-innovation-and-democracy-evms",
+  title: "India, Innovation and Democracy: Are We Moving Forward or Looking Backward?",
+  category: "Society & Governance",
+  date: "Opinion",
+  image: "assets/India EVM Innovation and Paper Ballots.png",
+  alt: "Indian Electronic Voting Machine representing India's technological innovation in democracy",
+  excerpt:
+    "India's journey towards electronic voting raises an important question: should we recognise our own technological achievements while continuing to improve the democratic process?",
+
+  paragraphs: [
+    "As we observe the growing number of news reports, public discussions, debates and protests across major Indian cities such as Mumbai, Bengaluru and Delhi, I felt compelled to write about an issue that deserves our attention.",
+
+    "While researching this subject, I came across something that made me feel particularly proud of our country. You might wonder why. Let me explain.",
+
+    "India was under British colonial rule for nearly two centuries. During this period, many British institutions, administrative practices and systems became part of our society. Even after independence, some of these practices continued, knowingly or unknowingly.",
+
+    "One such area is the process of conducting elections. However, I believe that India has never been a country that simply follows existing systems. We have consistently demonstrated our ability to adapt, identify problems and develop solutions suited to our needs.",
+
+    "Let me explain how this connects to the subject.",
+
+    "Even today, several established democracies continue to use traditional paper ballots to conduct elections. Voters mark their choices on paper and place their ballots in designated boxes. Although this is a recognised and established method, it involves considerable manual effort, time and resources. It also requires careful handling and counting, with the possibility of human error or invalid ballots.",
+
+    "India, on the other hand, took a significant step towards modernising its electoral process by introducing Electronic Voting Machines (EVMs).",
+
+    "What makes this achievement particularly noteworthy is that these machines were developed indigenously, with contributions from Indian public sector enterprises such as Bharat Electronics Limited (BEL) and Electronics Corporation of India Limited (ECIL). The development of EVMs began in the 1980s, reflecting India's willingness to explore technological solutions to practical challenges.",
+
+    "Think about that for a moment.",
+
+    "A country that was once under colonial rule was developing its own electronic voting technology and moving towards a more technology-driven electoral process. This is something we should acknowledge and appreciate.",
+
+    "Here is the question I want to raise: If India has invested in developing its own electronic voting system, demonstrated its capabilities and continued to use technology in its electoral process, why should we automatically consider a return to paper ballots a step forward?",
+
+    "Does adopting an older method necessarily make a system more democratic?",
+
+    "I believe it would be unfair to dismiss the progress we have made without carefully examining the reasons, evidence and consequences. Returning to paper ballots without a compelling justification could be a setback rather than progress.",
+
+    "Of course, no electoral system should be beyond scrutiny. EVMs, like any technology, must be transparent, secure, independently verifiable and trusted by the public. The credibility of an election is not determined merely by the technology used, but also by the integrity of the entire electoral process.",
+
+    "Beyond the technology itself, there is another important aspect that we must understand: our responsibilities as citizens.",
+
+    "We often demand transparency, fairness and accountability from our institutions. These expectations are absolutely justified. But we must also ask ourselves whether we are equally committed to honesty and responsibility in our own actions.",
+
+    "Rules should apply equally to everyone. Whether we are citizens, public representatives or people holding positions of responsibility, following the rules and acting with integrity should never be optional.",
+
+    "A nation cannot progress merely through technological advancement, economic growth or infrastructure development. It also needs responsible citizens who understand that their actions contribute to the country's future.",
+
+    "If we are dishonest, indifferent to our responsibilities and unwilling to contribute positively, then we become obstacles to the very nation we expect to see prosper.",
+
+    "I strongly believe that we should develop confidence in our country's capabilities. We should learn from the world, adopt good practices and continuously improve, but we should never underestimate our own achievements.",
+
+    "I would like to leave my fellow Indians with one thought: imagine what our country could become if each of us practised honesty, respected our responsibilities and developed the spirit of service demonstrated by leaders such as Lal Bahadur Shastri Ji.",
+
+    "His life reminds us that leadership is not merely about holding a position; it is about integrity, simplicity and putting the nation before oneself.",
+
+    "Let us not just demand a better India. Let us become responsible contributors to building one."
+  ],
+
+  sourceNote:
+    "This is an opinion article reflecting the author's perspective on India's electoral technology, democratic processes and civic responsibility. Historical claims and comparisons of electoral systems should be supported with reliable sources before publication."
+},
+
+  
   {
     slug: "h1b-visa-and-national-development",
     title: "Trump Faces Backlash in Court: My Thoughts on the H-1B Visa Debate",
