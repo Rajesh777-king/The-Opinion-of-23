@@ -10,7 +10,7 @@ const articles = [
   title: "India, Innovation and Democracy: Are We Moving Forward or Looking Backward?",
   category: "Society & Governance",
   date: "Opinion",
-  image: "assets/India's EVM Innovation and Paper Ballots.png",
+  image: "assets/India EVM Innovation and Paper Ballots.png",
   alt: "Indian Electronic Voting Machine representing India's technological innovation in democracy",
   excerpt:
     "India's journey towards electronic voting raises an important question: should we recognise our own technological achievements while continuing to improve the democratic process?",
